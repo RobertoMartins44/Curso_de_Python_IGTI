@@ -1,4 +1,4 @@
 def soma (x,y):
-    return x + y
+    print(x + y)
 
 soma(5,5)
